@@ -1,0 +1,48 @@
+{
+  "source_file": "KODIM21_SPDR.jpg",
+  "format": "JPEG",
+  "resolution": "2560x1707",
+  "pixels": 4369920,
+  "file_size_bytes": 2659255,
+  "bpp": 4.868,
+  "correlations": {
+    "R_G": 0.890084,
+    "R_B": 0.678584,
+    "G_B": 0.928441,
+    "avg_abs_r": 0.8324
+  },
+  "channel_stats": {
+    "R": {
+      "mean": 110.8906,
+      "std": 40.8648,
+      "min": 0,
+      "max": 255
+    },
+    "G": {
+      "mean": 118.0942,
+      "std": 44.0311,
+      "min": 0,
+      "max": 255
+    },
+    "B": {
+      "mean": 114.9977,
+      "std": 47.0339,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "PC1_pct": 89.26,
+  "PC2_pct": 10.48,
+  "PC3_pct": 0.26,
+  "eigenvalues": {
+    "PC1": 5195.6971,
+    "PC2": 609.7421,
+    "PC3": 15.4245
+  },
+  "condition_number": 336.85,
+  "theta2": 41.97,
+  "theta3": 40.1,
+  "loo_dev": 0.33,
+  "spatial_autocorrelation_avg": 0.993708,
+  "sha256": "1bbded73f0f779bdb0035ba8c30b98cb9224489794bea764d2c7c622b482289b"
+}

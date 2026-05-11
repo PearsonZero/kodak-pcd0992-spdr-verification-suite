@@ -1,0 +1,48 @@
+{
+  "source_file": "KODIM20_SPDR_FB1_J_FIN.jpg",
+  "format": "JPEG",
+  "resolution": "2048x1366",
+  "pixels": 2797568,
+  "file_size_bytes": 334951,
+  "bpp": 0.958,
+  "correlations": {
+    "R_G": 0.995341,
+    "R_B": 0.96038,
+    "G_B": 0.977927,
+    "avg_abs_r": 0.9779
+  },
+  "channel_stats": {
+    "R": {
+      "mean": 180.3629,
+      "std": 86.3835,
+      "min": 0,
+      "max": 255
+    },
+    "G": {
+      "mean": 176.3572,
+      "std": 86.9749,
+      "min": 0,
+      "max": 255
+    },
+    "B": {
+      "mean": 154.8359,
+      "std": 90.3416,
+      "min": 0,
+      "max": 255
+    }
+  },
+  "PC1_pct": 98.5,
+  "PC2_pct": 1.44,
+  "PC3_pct": 0.06,
+  "eigenvalues": {
+    "PC1": 22840.4719,
+    "PC2": 333.5418,
+    "PC3": 14.3401
+  },
+  "condition_number": 1592.77,
+  "theta2": 25.19,
+  "theta3": 23.26,
+  "loo_dev": 0.34,
+  "spatial_autocorrelation_avg": 0.998532,
+  "sha256": "3a3d2ac0d28e9f53859e581f4bd27464500130a72ea1b3f667e77fd46e2184ef"
+}
