@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20148091.svg)](https://doi.org/10.5281/zenodo.20148091)
+
 # SPDR Verification Suite
 
 **24 Kodak Images. 73% Smaller Through Facebook's JPEG Pipeline. Verify It Yourself.**
