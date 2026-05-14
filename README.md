@@ -24,10 +24,11 @@ This repository documents ongoing experimental research and reproducible observa
 ## Quick Verification
 
 ```bash
-git clone https://github.com/PearsonZero/kodak-pcd0992-spdr-verification-suite.git
+git clone https://github.com/PearsonZero/kodak-pcd0992-spdr-verification-suite
 cd kodak-pcd0992-spdr-verification-suite
-pip install numpy Pillow
+pip install -r requirements.txt
 python3 scripts/verify_suite.py
+
 ```
 
 The script measures every image in the repository and compares the results against the published JSON data. Total runtime: approximately 2 minutes. No configuration required.
@@ -225,6 +226,9 @@ Each JSON file contains:
 | `scripts/` | `verify_suite.py`, `batch_measure.py` | Verification tools |
 | `figures/` | Per-image BPP reduction chart | Visual summary |
 | `verify.sh` | Shell-based verification entry point | Quick verification |
+| `LICENSE` | CC BY 4.0 license |
+| `requirements.txt` | Python dependencies |
+| `codecheck.yml` | CODECHECK manifest |
 
 ---
 
