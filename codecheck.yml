@@ -1,0 +1,89 @@
+version: https://codecheck.org.uk/spec/config/1.0/
+
+manifest:
+  - file: verification_output/json/clean/KODIM01_SPDR.json
+    comment: "24 SPDR source image measurements"
+  - file: verification_output/json/clean/KODIM02_SPDR.json
+  - file: verification_output/json/clean/KODIM03_SPDR.json
+  - file: verification_output/json/clean/KODIM04_SPDR.json
+  - file: verification_output/json/clean/KODIM05_SPDR.json
+  - file: verification_output/json/clean/KODIM06_SPDR.json
+  - file: verification_output/json/clean/KODIM07_SPDR.json
+  - file: verification_output/json/clean/KODIM08_SPDR.json
+  - file: verification_output/json/clean/KODIM09_SPDR.json
+  - file: verification_output/json/clean/KODIM10_SPDR.json
+  - file: verification_output/json/clean/KODIM11_SPDR.json
+  - file: verification_output/json/clean/KODIM12_SPDR.json
+  - file: verification_output/json/clean/KODIM13_SPDR.json
+  - file: verification_output/json/clean/KODIM14_SPDR.json
+  - file: verification_output/json/clean/KODIM15_SPDR.json
+  - file: verification_output/json/clean/KODIM16_SPDR.json
+  - file: verification_output/json/clean/KODIM17_SPDR.json
+  - file: verification_output/json/clean/KODIM18_SPDR.json
+  - file: verification_output/json/clean/KODIM19_SPDR.json
+  - file: verification_output/json/clean/KODIM20_SPDR.json
+  - file: verification_output/json/clean/KODIM21_SPDR.json
+  - file: verification_output/json/clean/KODIM22_SPDR.json
+  - file: verification_output/json/clean/KODIM23_SPDR.json
+  - file: verification_output/json/clean/KODIM24_SPDR.json
+  - file: verification_output/json/fb1/KODIM01_SPDR_FB1_J_FIN.json
+    comment: "24 Facebook pipeline pass 1 measurements"
+  - file: verification_output/json/fb1/KODIM02_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM03_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM04_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM05_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM06_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM07_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM08_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM09_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM10_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM11_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM12_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM13_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM14_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM15_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM16_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM17_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM18_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM19_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM20_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM21_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM22_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM23_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb1/KODIM24_SPDR_FB1_J_FIN.json
+  - file: verification_output/json/fb2/KODIM01_SPDR_FB2_J_FIN.json
+    comment: "24 Facebook pipeline pass 2 measurements"
+  - file: verification_output/json/fb2/KODIM02_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM03_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM04_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM05_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM06_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM07_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM08_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM09_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM10_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM11_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM12_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM13_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM14_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM15_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM16_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM17_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM18_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM19_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM20_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM21_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM22_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM23_SPDR_FB2_J_FIN.json
+  - file: verification_output/json/fb2/KODIM24_SPDR_FB2_J_FIN.json
+  - file: verification_output/summary.csv
+    comment: "Suite-wide comparison CSV"
+  - file: verification_output/summary.md
+    comment: "Suite-wide comparison markdown table"
+
+paper:
+  title: "SPDR Verification Suite — Kodak PCD0992"
+  authors:
+    - name: Jasmine Baetzel
+      ORCID: 0009-0008-3483-4501
+  reference: https://doi.org/10.5281/zenodo.20148091
